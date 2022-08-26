@@ -32,10 +32,8 @@
 
 <b>&#128200; Competitive Programming</b>
 
-<p>
-![LeetCode Stats](https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Archivo)
+![LeetCode Stats](https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Archivo?width=400&height=200)
 ![Codeforces Stats](https://raw.githubusercontent.com/ArifHosan/cf-stats/main/output/light_card.svg)
-</p>
 
 <!--
 **ArifHosan/ArifHosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
