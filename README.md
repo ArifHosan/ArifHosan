@@ -69,6 +69,11 @@
 
 ### :computer: Coding Stats (Past 7 days)
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ### ⚡ Github Stats
