@@ -1,4 +1,7 @@
-![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifHosan)
+<!-- ![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifHosan) -->
+
+## Hi, This is Arif Hosan
+### Programmer and Full-stack Developer
 
 <p align="left">
   <a href="https://leetcode.com/DrowningPhoenix/">
