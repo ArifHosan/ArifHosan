@@ -33,8 +33,8 @@
 <b>&#128200; Competitive Programming</b>
 
 <p>
-<img align='top' width="400em" src="https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Archivo">
-<img align='top' src="https://raw.githubusercontent.com/ArifHosan/cf-stats/main/output/light_card.svg">
+<img align='center' width="450em" src="https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Archivo&height=275">
+<img align='center' src="https://raw.githubusercontent.com/ArifHosan/cf-stats/main/output/light_card.svg">
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Archivo?width=400&height=200) -->
 <!-- ![Codeforces Stats]() -->
 </p>
