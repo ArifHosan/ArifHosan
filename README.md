@@ -20,9 +20,9 @@
   </a>
 </p>
 
-### Programmer and Full-stack Developer
-### Living in Aachen, Germany
-### From Dhaka, Bangladesh
+- Programmer and Full-stack Developer
+- Living in Aachen, Germany
+- From Dhaka, Bangladesh
 
 <!--
 **ArifHosan/ArifHosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
