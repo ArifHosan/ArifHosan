@@ -67,6 +67,10 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ### ⚡ Github Stats
 <p float="left">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArifHosan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
