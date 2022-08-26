@@ -67,7 +67,7 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 ![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-
+### :computer: Coding Stats (Past 7 days)
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
