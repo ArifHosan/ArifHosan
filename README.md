@@ -1,6 +1,6 @@
 <!-- ![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifHosan) -->
 
-## Hi, This is Arif Hosan
+<img src="header.png" alt="header image" />
 
 <p align="left">
   <a href="https://leetcode.com/DrowningPhoenix/">
