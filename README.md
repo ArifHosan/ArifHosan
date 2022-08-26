@@ -1,7 +1,6 @@
 <!-- ![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifHosan) -->
 
 ## Hi, This is Arif Hosan
-### Programmer and Full-stack Developer
 
 <p align="left">
   <a href="https://leetcode.com/DrowningPhoenix/">
@@ -21,7 +20,9 @@
   </a>
 </p>
 
-
+### Programmer and Full-stack Developer
+### Living in Aachen, Germany
+### From Dhaka, Bangladesh
 
 <!--
 **ArifHosan/ArifHosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
