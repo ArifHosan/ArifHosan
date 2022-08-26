@@ -30,6 +30,12 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHosan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
+<b>&#128200; Competitive Programming</b>
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Karma&ext=contest" />
+<img height="280em" src="https://raw.githubusercontent.com/ArifHosan/cf-stats/main/output/light_card.svg" />
+</p>
+
 <!--
 **ArifHosan/ArifHosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
