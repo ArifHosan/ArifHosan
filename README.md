@@ -24,6 +24,12 @@
 - Living in Aachen, Germany
 - From Dhaka, Bangladesh
 
+<b>⚡ Github Stats</b>
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArifHosan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHosan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
 <!--
 **ArifHosan/ArifHosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
