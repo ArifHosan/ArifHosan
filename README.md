@@ -73,11 +73,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TeX          6 hrs 37 mins   ████████████████▒░░░░░░░░   65.34 %
-Python       1 hr 56 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.20 %
-JavaScript   50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
-BibTeX       29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
