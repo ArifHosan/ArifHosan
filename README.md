@@ -72,7 +72,7 @@
 ### :computer: Coding Stats (Past 7 days)
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Python       35 mins         ████████████▒░░░░░░░░░░░░   49.17 %
 Docker       13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.17 %
 JavaScript   7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.42 %
