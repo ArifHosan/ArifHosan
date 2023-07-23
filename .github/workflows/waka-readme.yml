@@ -14,3 +14,6 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKA_KEY }}
           TIME_RANGE: all_time
+          LANG_COUNT: 10
+          STOP_AT_OTHER: true
+          SHOW_TOTAL: true
