@@ -3,7 +3,7 @@
 <img src="header.png" alt="header image" />
 
 <p align="left">
-  <a href="https://leetcode.com/DrowningPhoenix/">
+  <a href="https://leetcode.com/arifhosan/">
     <img src="https://cp-logo.vercel.app/leetcode/DrowningPhoenix" alt="Leetcode rating" />
   </a>
   <a href="https://codeforces.com/profile/ArifHosan">
@@ -68,7 +68,7 @@ Docker                     11 hrs 29 mins  ▒░░░░░░░░░░░�
 ### &#128200; Competitive Programming
 
 <p>
-<img align='center' width="450em" src="https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Archivo&height=275">
+<img align='center' width="450em" src="https://leetcard.jacoblin.cool/arifhosan?theme=light&font=Archivo&height=275">
 <img align='center' src="https://raw.githubusercontent.com/ArifHosan/cf-stats/main/output/light_card.svg">
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Archivo?width=400&height=200) -->
 <!-- ![Codeforces Stats]() -->
