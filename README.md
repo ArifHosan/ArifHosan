@@ -1,34 +1,52 @@
 <!-- ![Arif's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArifHosan) -->
 
-<img src="header.png" alt="header image" />
-
-<p align="left">
-  <a href="https://leetcode.com/arifhosan/">
-    <img src="https://cp-logo.vercel.app/leetcode/DrowningPhoenix" alt="Leetcode rating" />
+<div id="header" align="center">
+  <h3>Hi, I'm Arif Hosan</h3>
+  <p>Software Engineer and Tech Enthusiast</p>
+  <b>Research Associate, Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University</b>
+  <br> <br>
+  <a href="https://github.com/arifhosan">
+    <img src="https://komarev.com/ghpvc/?username=arifhosan&color=blue&style=flat-square" alt="arifhosan"/>
+  </a>
+  <a href="https://github.com/ArifHosan?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ArifHosan?color=green&logo=github&style=flat-square">
   </a>
   <a href="https://codeforces.com/profile/ArifHosan">
     <img src="https://raw.githubusercontent.com/ArifHosan/cf-stats/main/output/rating.svg" alt="CodeForces rating" />
   </a>
   <a href="https://stackoverflow.com/users/5510537/arif-hosan">
-    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5510537?color=orange&label=reputation&logo=stackoverflow">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5510537?color=orange&label=reputation&logo=stackoverflow&style=flat-square">
   </a>
-  <a href="https://github.com/ArifHosan?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/ArifHosan?color=green&logo=github">
+  <a href="https://leetcode.com/arifhosan/">
+    <img src="https://cp-logo.vercel.app/leetcode/arifhosan" alt="Leetcode rating" />
   </a>
-  <a href="https://github.com/ArifHosan/">
-    <img src="https://komarev.com/ghpvc/?username=ArifHosan" alt="visitors" />
-  </a>
-</p>
+</div>
+<br> <br>
 
-- Programmer and Full-stack Developer
+## 💁‍♂ About Me
+- Passionate Programmer and Full-stack Developer
+- Working as a Research Associate at Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University
+- Graduated from RWTH Aachen University
 - Living in Aachen, Germany
-- From Dhaka, Bangladesh
 
-<a href="https://www.buymeacoffee.com/arifhosan" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<div align="center">
+  <a href="https://www.buymeacoffee.com/arifhosan" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174">
+  </a>
+</div>
+<br>
+<div align="center">
+  <b>Connect with me</b>
+  <div>
+    <a href="https://linkedin.com/arif.hosan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="41" width="174">
+  </a>
+  </div>
+</div>
 
-### :hourglass: Current Work
-- Research Associate
-- Cybernetics Lab, IMA, RWTH Aachen University
+## :hourglass: Current Work
+- Research Associate since June, 2023
+- Laboratory for Machine Tools and Production Engineering (WZL) of RWTH Aachen University
 - Aachen, Germany
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -38,8 +56,9 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
+<br>
 
-### :computer: Coding Stats (Tracked)
+## :computer: Coding Stats (Tracked)
 <!--START_SECTION:waka-->
 
 ```txt
@@ -59,13 +78,13 @@ Docker                     12 hrs 1 min    ▒░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-### ⚡ Github Stats
+## ⚡ Github Stats
 <p float="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArifHosan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArifHosan&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArifHosan&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-### &#128200; Competitive Programming
+## &#128200; Competitive Programming
 
 <p>
 <img align='center' width="450em" src="https://leetcard.jacoblin.cool/arifhosan?theme=light&font=Archivo&height=275">
@@ -73,18 +92,3 @@ Docker                     12 hrs 1 min    ▒░░░░░░░░░░░�
 <!-- ![LeetCode Stats](https://leetcard.jacoblin.cool/DrowningPhoenix?theme=light&font=Archivo?width=400&height=200) -->
 <!-- ![Codeforces Stats]() -->
 </p>
-
-<!--
-**ArifHosan/ArifHosan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
