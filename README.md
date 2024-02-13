@@ -38,9 +38,15 @@
 <div align="center">
   <b>Connect with me</b>
   <div>
-    <a href="https://linkedin.com/arif.hosan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="41" width="174">
-  </a>
+    <a href="https://linkedin.com/in/arif.hosan" target="blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn" height="25">
+    </a>
+    <a href="https://stackoverflow.com/users/5510537" target="blank">
+      <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white&style=flat-square" alt="Stackoverflow" height="25">
+    </a>
+    <a href="https://codeforces.com/profile/arifhosan" target="blank">
+      <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white&style=flat-square" alt="Codeforces" height="25">
+    </a>
   </div>
 </div>
 
